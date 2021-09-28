@@ -16,8 +16,13 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48">](https://docs.microsoft.com/en-us/dotnet/csharp)
 
 #### Other cool tools
-[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](ttps://git-scm.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48">](https://github.com/)
+
+#### In Progress...
+[<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48">](https://nodejs.org/es/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="48">](https://developer.android.com/studio?hl=es-419&gclid=Cj0KCQjw18WKBhCUARIsAFiW7JyiCWh4B1_CwhFcNm5YWny0gQRLnuMf6zWbYTknmANlJYvYgIDqwHcaAoMBEALw_wcB&gclsrc=aw.ds)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="48">](https://kotlinlang.org/)
 
 📫 You can find me on LinkedIn:
 
